@@ -6,6 +6,7 @@
  * 
  * Licensed under the GPLv2 and the MIT license
  *
+ *  updated comment
  */
 
 relocate = function(width, elements, destinationElement) {
