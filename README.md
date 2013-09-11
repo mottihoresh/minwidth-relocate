@@ -1,10 +1,8 @@
-
 Read the blog post which describes these tools with a nice demo:
 
 [http://edenspiekermann.com/en/blog/responsive-javascript-helpers](http://edenspiekermann.com/en/blog/responsive-javascript-helpers)
 
-# minwidth.js
-
+\
 minwidth.js is a javascript library that helps you create fantastic mobile first websites. You provide a width at which your functions are called.
 
 Several use-cases have occured so many times that it made sense to sort this problem out properly. One thing that happened to us often when designing mobile first web-sites is that some elements need to be in a different place in the DOM on wider screens. Another problem was loading certain scripts only desktop screens.
